@@ -1,0 +1,24 @@
+{
+  "name": "campaing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha",
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ganache-cli": "^6.4.4",
+    "mocha": "^6.1.4",
+    "next": "^4.1.4",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "solc": "^0.4.17",
+    "web3": "^1.0.0-beta.37"
+  }
+}
